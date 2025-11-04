@@ -1,5 +1,6 @@
 # TimetableUI main class
-# Drag/drop, event drawing, and grid logic will be refactored here
+# Merges all the functions into a single class for the UI
+# ================================================================================================= #
 
 import customtkinter as ctk
 import tkinter as tk

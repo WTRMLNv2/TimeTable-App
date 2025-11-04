@@ -1,5 +1,6 @@
 # popups.py
 # Popup dialog implementations for adding, editing, deleting, and clearing events
+# ================================================================================================= #
 import customtkinter as ctk
 import datetime
 from core import clear_all_events, get_all_event, delete_event, delete_event_exact, update_event, add_event

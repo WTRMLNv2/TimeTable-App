@@ -131,4 +131,8 @@ If you'd like, I can:
 - Add a minimal `requirements.txt` or `pyproject.toml`.
 - Add usage screenshots or a short GIF (you'd need to provide one).
 
+<<<<<<< HEAD
 Tell me which extras you want and I will add them next.
+=======
+Tell me which extras you want and I will add them next.
+>>>>>>> 368da88ea542343ced766a738032c7785b43085b

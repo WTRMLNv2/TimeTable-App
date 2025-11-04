@@ -2,3 +2,5 @@ __pycache__/
 *.pyc
 UI.py
 events_real.json
+ui/__pycache__/
+ui/*.pyc

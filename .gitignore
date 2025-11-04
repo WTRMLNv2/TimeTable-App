@@ -1,6 +1,17 @@
+# Python cache files
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+
+# Project-specific
 UI.py
 events_real.json
-ui/__pycache__/
-ui/*.pyc
+
+# IDE settings
+.vscode/
+.idea/

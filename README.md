@@ -2,6 +2,9 @@
 
 A friendly desktop weekly timetable app built with CustomTkinter and plain JSON storage. It lets you add, edit, delete, and visualize weekly events in a simple, modern UI.
 
+**Note**:
+ - Don't want this mess of a zip? Download the .exe version [here](https://github.com/WTRMLNv2/TimeTable-App/releases/tag/1.0)! 
+
 ## Highlights
 
 - Clean weekly timetable UI showing a 7-day grid (Mon–Sun).

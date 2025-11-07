@@ -1,9 +1,9 @@
 # TimeTable
 
-A friendly desktop weekly timetable app built with CustomTkinter and plain JSON storage. It lets you add, edit, delete, and visualize weekly events in a simple, modern UI.
+A friendly desktop weekly timetable app built with CustomTkinter and plain JSON storage. It lets you add, edit, delete, and visualise weekly events in a simple, modern UI.
 
 **Note**:
- - Don't want this mess of a zip? Download the .exe version [here](https://github.com/WTRMLNv2/TimeTable-App/releases/tag/1.0)! 
+ - Don't want this mess of a zip and downloading all the dependencies? Download the .exe version [here](https://github.com/WTRMLNv2/TimeTable-App/releases/tag/1.0)! 
 
 ## Highlights
 
@@ -47,7 +47,7 @@ python .\ui\main.py
 python -m ui.main
 ```
 
-Note: `UI.py` contains a Timetable class at the project root; the recommended entry is `ui/main.py` which configures appearance and launches the UI.
+Note: `UI.py` contains a Timetable class at the project root; the recommended entry is `ui/main.py`, which configures appearance and launches the UI.
 
 ## Project layout
 
@@ -58,7 +58,7 @@ Note: `UI.py` contains a Timetable class at the project root; the recommended en
   - `ui/main.py` — entrypoint that launches the timetable
   - `ui/timetable.py` — main TimetableUI class and grid logic
   - `ui/utils.py` — small helpers (time formatting, grid math)
-  - `ui/popups.py`, `ui/dragdrop.py` — popup dialogs and drag/drop helpers
+  - `ui/popups.py`, `ui/dragdrop.py` — popup dialogues and drag/drop helpers
 
 ## events.json format and examples
 
@@ -83,7 +83,7 @@ Example:
 
 - `start_time`, `end_time`: integers like `930` (09:30) or `1400` (14:00).
 - `date`: string in `DD-MM-YYYY` format.
-- `type`: one of `study`, `fun`, `break` (used for coloring, extendable).
+- `type`: one of `study`, `fun`, `break` (used for colouring, extendable).
 
 ## Using the Python helpers (quick examples)
 
@@ -134,4 +134,4 @@ If you'd like, I can:
 - Add a minimal `requirements.txt` or `pyproject.toml`.
 - Add usage screenshots or a short GIF (you'd need to provide one).
 
-Tell me which extras you want and I will add them next.
+Tell me which extras you want, and I will add them next.

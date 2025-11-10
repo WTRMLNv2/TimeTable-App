@@ -34,6 +34,7 @@ Install the Python dependency:
 python -m pip install --upgrade pip
 python -m pip install customtkinter
 ```
+(or you can always download a .exe version [here](https://github.com/WTRMLNv2/TimeTable-App/releases/tag/1.0) and **skip** all these steps!) 
 
 ## Run
 
